@@ -1,0 +1,2 @@
+let userChosen
+let computerChosen
