@@ -1,6 +1,6 @@
 let userChosen
 let computerChosen
-const displayResult = document.getElementById('results')
+const displayResult = document.getElementById('result')
 const userChoice = document.getElementById('your-choice')
 var result = results()
 const possibleChoices = document.querySelectorAll('.choices')
